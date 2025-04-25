@@ -30,8 +30,8 @@ Green Receipt is a modern web application that allows businesses to create, mana
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/green-receipt.git
-cd green-receipt
+git clone https://github.com/Adi-Evolve/greenreceipt01.git
+cd greenreceipt01
 ```
 
 2. Install dependencies:
@@ -69,7 +69,7 @@ yarn dev
 ## 📋 Project Structure
 
 ```
-green-receipt/
+greenreceipt01/
 ├── public/
 ├── src/
 │   ├── app/
@@ -107,4 +107,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🙏 Acknowledgements
 
 - Inspired by the need for eco-friendly receipt solutions
-- Built with Next.js and Tailwind CSS for a modern, responsive design 
+- Built with Next.js and Tailwind CSS for a modern, responsive design
